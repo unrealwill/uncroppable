@@ -26,6 +26,7 @@ If we didn't mix the channels :
 ## How it's done : 
 
 We steganographically encode a permuted half resolution image in the two least significant bits of each pixels.
+
 For more see the commented uncroppable.py file
 
 Of course, this is just a proof of concept that is easily detectable with the appropriate software, and any advanced uncroppable image algorithm would use error correcting code and the compression codecs directly in the hardware encoder of your sensor, to make it harder to detect.

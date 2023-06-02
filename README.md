@@ -13,7 +13,7 @@ Let's crop it anyway :
 
 ![Cropped Image](cropped.png?raw=true "cropped.png")
 
-Let's recover from it : 
+## Let's recover from it : 
 
 If we mixed the channels : 
 

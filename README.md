@@ -25,7 +25,7 @@ If we didn't mix the channels :
 
 ## How it's done : 
 
-We steganographically encode a permuted half resolution image in the two least significant bits of each pixels.
+We steganographically encode a permuted half resolution image in the two least significant bits of each pixel.
 
 For more see the commented uncroppable.py file
 
